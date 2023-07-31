@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSYAsJcG0Ba38ItUeElL776wfSOYFR5VGE93CbD/bAVmvyhGyaidmal9fDbIn/A4t2NWRCg2N6n3xcNLiLVOZg==",
+  "success": true,
+  "projectFilePath": "/Users/vinaykakkar/ILLYSystems/ILLYSystems.fsproj",
+  "expectedPackageFiles": [
+    "/Users/vinaykakkar/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
